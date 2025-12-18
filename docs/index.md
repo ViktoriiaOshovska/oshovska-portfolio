@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Вітаю на моєму портфоліо 👋
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Мене звати Ошовська Вікторія, я студентка спеціальності Computer Science та початківець у сфері розробки програмного забезпечення. 
+Цей сайт створений як навчальне портфоліо для демонстрації моїх навичок, проєктів та підходу до роботи.
 
-## Commands
+Тут ви можете дізнатися більше про мене, ознайомитися з моїми навчальними проєктами та побачити, як я організовую процес розробки.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Моє фото](images/photo1.jpg)
